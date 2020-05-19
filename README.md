@@ -1,4 +1,4 @@
-# activerecords_project
+# ACTIVERECORD PROJECT
 This is a primer on building model associations with rails active records ORM.
 
 ## INSTALLATION
@@ -30,4 +30,20 @@ This is a primer on building model associations with rails active records ORM.
      To test the active records validations setup,
      pass in an incomplete data when creating any of the data above and errors will be caught.
 
+## AUTHORS
 
+👤 **Alfred Ezaka**
+
+- Github: [@codecell](https://github.com/codecell)
+- Twitter: [@the_codecell](https://twitter.com/the_codecell) 
+- Linkedin: [ezaka alfred](https://www.linkedin.com/in/alfrednoble/)
+
+👤 **Daniel Santander**
+
+- Github [Github profile](https://github.com/dansantander)
+- Twitter: [@pordios_cero](https://twitter.com/pordios_cero)
+- Linkedin: [daniel santander](https://www.linkedin.com/in/daniel-santander/)
+
+## SHOW YOUR SUPPORT
+
+Give a ⭐️ if you like this project!
